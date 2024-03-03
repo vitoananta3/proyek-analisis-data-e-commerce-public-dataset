@@ -1,11 +1,3 @@
 data
 
 .venv
-
-dashboard/by_city.csv
-dashboard/customer_segment.csv
-dashboard/monthly_orders_revenue.csv
-dashboard/orders_payments_customers.csv
-dashboard/products.csv
-dashboard/product_review.csv
-dashboard/rfm.csv
